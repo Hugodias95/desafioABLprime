@@ -1,7 +1,7 @@
 # DesafioABLprime
 ##objetivo: crud em PHP para cadastro de moradores.
 
-Para rodar o banco de dados na minha máquinha utilizei as seguintes ferramentas: XAMPP e MySQL Workbench. 
+Para rodar o banco de dados na minha máquina utilizei as seguintes ferramentas: XAMPP e MySQL Workbench. 
 Funcionei ele no localhost/crudphp/ após dar "Start" no Apache e MySQL pelo xampp. 
 
 É necessário criar o banco de dados na máquina. Fiz a criação do banco usando o MySQL Workbench mas deixei abaixo o código para fazê-lo por linha de código.
